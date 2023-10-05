@@ -1,5 +1,5 @@
 import "./App.css";
-import HoldingPage from "./HoldingPage";
+import HoldingPage from "./BlankCanvas/HoldingPage";
 
 export default function Main() {
   return <HoldingPage />;
